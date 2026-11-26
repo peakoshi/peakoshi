@@ -6,6 +6,8 @@
 
 <pre>
 <b>open source</b>
+  <a href="https://github.com/peakoshi/ldr-flip">ldr-flip</a>             perceptual LDR FLIP image comparison in pure Rust
+  <a href="https://github.com/peakoshi/mapsample">mapsample</a>            Windows x64 stack sampler, stall recorder, /MAP tool
   <a href="https://github.com/peakoshi/atrac9">atrac9</a>               safe, allocation-free ATRAC9 audio decoder in Rust
   <a href="https://github.com/peakoshi/shortroom">shortroom</a>            short-code P2P QUIC rooms over iroh in Rust
   <a href="https://github.com/peakoshi/amd-pm4">amd-pm4</a>              AMD gfx7 PM4 command-stream framing and state in Rust
